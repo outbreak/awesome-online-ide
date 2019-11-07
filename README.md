@@ -44,9 +44,12 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [MATLAB Online](https://www.mathworks.com/products/matlab-online.html) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run MATLAB code, visualize results, share scripts and collaborate on mathematical computing software.
 - [Colaboratory](https://research.google.com/colaboratory/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/googlecolab/colabtools) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run Python in a Jupyter notebook with ML libraries and free GPUs for running experiments.
 - [Coder](https://coder.com) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run most languages on a full Linux VM complete with a terminal, go-to-definition, linting, live collaboration, and auto-scaling.
-- [Gitpod](https://gitpod.io) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://www.gitpod.io/gitpod-business.html) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full Linux VM complete with terminals, GitHub and Git integration, content assist, go-to-definition, linting, live collaboration, custom Docker workspaces, and integrated code review support.
+- [Gitpod](https://gitpod.io) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://www.gitpod.io/pricing/#enterprise) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full Linux VM complete with terminals, GitHub and Git integration, content assist, go-to-definition, linting, live collaboration, custom Docker workspaces, and integrated code review support.
 - [Browxy](https://www.beta.browxy.com) - Run Java, C, C++, C#, Python, or PHP with some syntax highlighting, input arguments, and publish to a public URL.
 - [Superblocks Lab](https://superblocks.com/lab) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/SuperblocksHQ/studio) - Run Solidity with a built-in browser Ethereum blockchain VM, Metamask integration (deployments to Testnet/Mainnet), transaction logger and live code your WebApp, powered by Monaco Editor.
+- [Codiad](http://demo.codiad.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/codiad/codiad) <img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" /> - Run most of languages on a self-hosted, resource-constrained server with plugins and shell execution.
+- [Appitr](https://appitr.com) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run JavaScript ES6 with React Native in the browser built on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) and React Native Web.
+- [DrRacket](https://www.rollapp.com/app/drracket) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run [Racket](https://racket-lang.org) with support for macro debugging.
 
 ## Snippets
 
@@ -57,18 +60,20 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Judge0](https://ide.judge0.com) - Run snippets from over 40 languages including Erlang, Elixir, OCaml and Octave.
 - [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite.
 - [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion.
-- [CPP Shell](//www.cpp.sh) - Run C++ snippets with input flags for warning level and optimization level.
+- [CPP Shell](http://cpp.sh) - Run C++ snippets with input flags for warning level and optimization level.
 - [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest.
 - [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in.
 - [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion.
-- [SQLFiddle](http://sqlfiddle.com) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle.
+- [SQLFiddle](http://sqlfiddle.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/zzzprojects/sqlfiddle3) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle.
 - [Go Playground](https://play.golang.org) - Run snippets for Go programming language.
 - [Rust Playground](https://play.rust-lang.org) - Run snippets of Rust programming language.
-- [TypeScript Playground](https://agentcooper.github.io/typescript-play/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/agentcooper/typescript-play) - Run snippets of TypeScript with tsconfig options and full intellisense.
+- [TypeScript Playground](https://typescript-play.js.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/agentcooper/typescript-play) - Run snippets of TypeScript with tsconfig options and full intellisense.
 - [Python Tutor](http://pythontutor.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/pgbovine/OnlinePythonTutor) - Run snippets of Python, JavaScript, TypeScript, Java, Ruby, C, and C++ code and see detailed step-by-step visualizations of run-time state.
 - [Codeboard.io](https://codeboard.io) - Run snippets in C, C++, Eiffel, Haskell, Java, Python, and use tests for automatic grading of code written by students.
 - [kotlin-web-demo](http://try.kotl.in) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/JetBrains/kotlin-web-demo) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://github.com/JetBrains/kotlin-web-demo/tree/master/docker) - Run Kotlin snippets with auto-completion, type checking and automatically translate Java to Kotlin code.
 - [3v4l PHP Playground](https://3v4l.org) - Run PHP snippets on 200+ versions simultaneously with VLD opcodes and performance comparison.
+- [PasteRack](http://pasterack.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/stchang/pasterack) - Run Racket snippets with support for sample and recent snippets.
+- [myCompiler.io](https://www.mycompiler.io) - Run snippets from over 12 languages including C, C++, Java, Python, Ruby, Nodejs and more with auto code-completion, syntax highlighting, collaboration features like forking, commenting and sharing of code snippets.
 
 ### Web Snippets
 
@@ -77,6 +82,8 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [JSFiddle](https://jsfiddle.net) - Run snippets in HTML/CSS/JS and collaborate in real-time.
 - [Flems](https://flems.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/porsager/flems) - Run snippets in HTML/CSS/JS without a connection to the server (after page load).
 - [Plunker](https://plnkr.co) - Run snippets in HTML/CSS/JS/TS and collaborate by forking, commenting, and participating in the forums.
+- [Popcode](https://popcode.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/popcodeorg/popcode) - Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.
+- [Webpaw](https://webpaw.net) - Run snippets in HTML/CSS/JS with realtime collaboration, import sources and development utilities.
 
 ## RIP
 
